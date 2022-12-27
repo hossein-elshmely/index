@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   server: {
     base:'index',
-    port: 5000,
+   
   },
 })
